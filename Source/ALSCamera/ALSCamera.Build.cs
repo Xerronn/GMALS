@@ -12,7 +12,7 @@ public class ALSCamera : ModuleRules
 
 		PublicDependencyModuleNames.AddRange(new[]
 		{
-			"Core", "CoreUObject", "Engine", "GameplayTags", "ALS"
+			"Core", "CoreUObject", "Engine", "GameplayTags", "ALS", "GMCCore"
 		});
 
 		PrivateDependencyModuleNames.AddRange(new[]

@@ -1,8 +1,8 @@
 <img src="Resources/Icon128.png" align="right" width="110">
 
-# Advanced Locomotion System Refactored
+# Generic Movement Advanced Locomotion System Refactored
 
-Completely reworked and improved С++ version of [Advanced Locomotion System V4](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1).
+Completely reworked and improved С++ version of [Advanced Locomotion System V4](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1) integrated with [Generic Movement Component](https://www.unrealengine.com/marketplace/en-US/product/general-movement-component).
 
 The main goal of this ALS version is a complete and high-quality refactoring of all aspects of the plugin to make it easier to understand, flexible, reliable (especially in network multiplayer), performant, and simply more enjoyable to work with.
 
